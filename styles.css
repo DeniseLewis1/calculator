@@ -12,6 +12,7 @@ body {
 }
 
 .display {
+    max-width: 200px;
     height: 50px;
     text-align: right;
     border: 1px solid black;
